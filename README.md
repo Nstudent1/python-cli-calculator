@@ -19,7 +19,7 @@ This project demonstrates basic Python programming concepts such as user input v
 
 ## Project Structure
 
-```
+``
 python-cli-calculator
 │
 ├── calculator.py
