@@ -69,6 +69,14 @@ The result is: 15
 - Exception handling using `try` / `except`
 - Basic program structure
 
+## Example Usage
+
+### Normal Calculation
+![Calculator running](screenshots/calculator_example.png)
+
+### Error Handling Example
+![Calculator error handling](screenshots/calculator_example_error_handling.png)
+
 ## Future Improvements
 
 - Add a graphical user interface (GUI)
