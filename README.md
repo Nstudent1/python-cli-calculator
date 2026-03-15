@@ -23,7 +23,11 @@ This project demonstrates basic Python programming concepts such as user input v
 python-cli-calculator
 │
 ├── calculator.py
-└── README.md
+├── README.md
+├── .gitignore
+└── screenshots/
+    ├── calculator_example.png
+    └── calculator_example_error_handling.png
 ```
 
 ## How to Run
