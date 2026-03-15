@@ -1,0 +1,19 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Environment files (if you ever use virtualenv or dotenv)
+.env
+*.env
+
+# VS Code settings folder
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
