@@ -35,7 +35,7 @@ python-cli-calculator
 1. Clone the repository:
 
 ```
-git clone https://github.com/Nstudent1/python-cli-calculator.git
+git clone https://github.com/nickdrozario/python-cli-calculator.git
 ```
 
 2. Navigate into the project folder:
